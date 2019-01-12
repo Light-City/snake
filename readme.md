@@ -52,9 +52,7 @@ python的pygame开发
 
 - [x] **游戏运行**
 
-![over](./snake/img/over.jpg)
-
-![run](D:\python_code\snake\img\run.jpg)
+![run](./img/run.jpg)
 
 - [x] **游戏结束**
 
